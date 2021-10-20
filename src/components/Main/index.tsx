@@ -1,7 +1,9 @@
+import * as S from './styles'
+
 const Main = () => (
-  <div>
-    <h1>React Avançado</h1>
-  </div>
+  <S.Wrapper>
+    <h1>Project starter to work with TypeScript, React, <br /> NextJS and Styled-Components</h1>
+  </S.Wrapper>
 )
 
 export default Main
